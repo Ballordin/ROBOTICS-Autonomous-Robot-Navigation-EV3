@@ -17,7 +17,7 @@ Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num
 
 
 ## 📝 Documentação
-O relatório técnico detalhado, contendo a fundamentação matemática (cinemática, matrizes de transformação e campos de custo), está disponível na pasta [`/Docs`](./Docs).
+O relatório técnico detalhado, contendo a fundamentação matemática (cinemática, matrizes de transformação e campos de custo), está disponível na pasta [`/documents`](./documents).
 
 ## 💡 Tecnologias
 - **Hardware:** Lego Mindstorms EV3

@@ -2,8 +2,6 @@
 
 Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num sistema autónomo de navegação para robô móvel, integrando cinemática direta/inversa, planeamento de trajetórias e visão computacional.
 
-<img width="868" height="594" alt="image" src="https://github.com/user-attachments/assets/47ebe408-f387-488d-bedd-749f6135ef18" />
-
 ## 🚀 Destaques Técnicos
 - **Cinemática:** Controlo de movimento através de modelos de cinemática direta e inversa.
 - **Mapeamento:** Conversão de coordenadas de imagem (câmara IP) para o mundo real (metros).
@@ -15,6 +13,7 @@ Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num
 
 ## 📊 Arquitetura do Sistema
 
+<img width="868" height="594" alt="image" src="https://github.com/user-attachments/assets/47ebe408-f387-488d-bedd-749f6135ef18" />
 
 ## 📝 Documentação
 O relatório técnico detalhado, contendo a fundamentação matemática (cinemática, matrizes de transformação e campos de custo), está disponível na pasta [`/documents`](./documents).

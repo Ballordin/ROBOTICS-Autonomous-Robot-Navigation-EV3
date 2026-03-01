@@ -9,7 +9,7 @@ Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num
 - **Visão:** Deteção de sinais de trânsito em espaço HSV e correção de erro odométrico.
 
 ## 📺 Demonstração
-[![Assistir ao Vídeo](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](LINK_DO_TEU_VIDEO_AQUI)
+[![Assistir ao Vídeo](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/b_EHnqg5K34)
 
 ## 📊 Arquitetura do Sistema
 

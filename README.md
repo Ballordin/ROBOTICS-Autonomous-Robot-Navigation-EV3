@@ -1,4 +1,4 @@
-# ROB-Navegacao-Autonoma-EV3
+# Navegacao-Autonoma-EV3
 
 Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num sistema autónomo de navegação para robô móvel, integrando cinemática direta/inversa, planeamento de trajetórias e visão computacional.
 

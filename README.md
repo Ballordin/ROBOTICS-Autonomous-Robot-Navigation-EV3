@@ -1,17 +1,22 @@
-# Autonomous-Robot-Navigation-EV3
+# 🤖 ROB-Navegacao-Autonoma-EV3
 
-Este projeto foca-se no desenvolvimento de um sistema completo de navegação autónoma utilizando o Lego Mindstorms EV3 e MATLAB. O robô é capaz de mapear o ambiente, planear trajetórias evitando zonas proibidas e reagir a sinais de trânsito.
+Projeto desenvolvido na unidade curricular de **Robótica (IPCA)**. Consiste num sistema autónomo de navegação para robô móvel, integrando cinemática direta/inversa, planeamento de trajetórias e visão computacional.
 
-🛠️ Destaques Técnicos
+## 🚀 Destaques Técnicos
+- **Cinemática:** Controlo de movimento através de modelos de cinemática direta e inversa.
+- **Mapeamento:** Conversão de coordenadas de imagem (câmara IP) para o mundo real (metros).
+- **Inteligência:** Algoritmos de planeamento de trajetórias para desvio de zonas proibidas.
+- **Visão:** Deteção de sinais de trânsito em espaço HSV e correção de erro odométrico.
 
-    Cinemática Inversa e Direta: Implementação de controlo preciso de motores para execução de trajetórias lineares e angulares.
+## 📺 Demonstração
+[![Assistir ao Vídeo](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](LINK_DO_TEU_VIDEO_AQUI)
 
-    Mapeamento Top-Down: Conversão de coordenadas de imagem (câmara IP) para o mundo real (metros).
+## 📊 Arquitetura do Sistema
 
-    Planeamento de Trajetória: Algoritmos para desvio de obstáculos e zonas proibidas baseados em mapas de ocupação.
 
-    Relocalização: Correção de erro acumulado de odometria através de visão computacional.
+## 📝 Documentação
+O relatório técnico detalhado, contendo a fundamentação matemática (cinemática, matrizes de transformação e campos de custo), está disponível na pasta [`/Docs`](./Docs).
 
-📺 Demonstração
-
-    Nota: O relatório técnico completo com diagramas e cálculos matemáticos está disponível na pasta /Docs.
+## 💡 Tecnologias
+- **Hardware:** Lego Mindstorms EV3
+- **Software:** MATLAB (App Designer, Image Acquisition/Processing Toolboxes)

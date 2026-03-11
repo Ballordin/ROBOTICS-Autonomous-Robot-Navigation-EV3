@@ -6,6 +6,21 @@ This project features an autonomous mobile robot (LEGO EV3) capable of navigatin
 
 
 
+## 🎯 Project Goals
+The main objective was to develop a robust control system for an EV3 robot to autonomously visit a sequence of targets while:
+1. **Avoiding** forbidden zones (Obstacles).
+2. **Obeying** traffic signs (STOP, Left, Right).
+3. **Correcting** odometry errors using a global vision system.
+
+
+
+## ⚙️ Hardware & Software
+* **Robot:** LEGO Mindstorms EV3 (Differential Drive).
+* **Sensors:** Overhead Camera (Global Vision).
+* **Control:** MATLAB App Designer & Hardware Support Package for EV3.
+* **Communication:** USB/Bluetooth/Wifi.
+
+
 ## 🛠️ Technical Features
 * **Computer Vision:** * Real-time mapping using HSV color space segmentation.
     * Traffic sign recognition (STOP, Turn Left, Turn Right) using rule-based classification.
